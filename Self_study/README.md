@@ -1,1 +1,1 @@
-#TensorFlow Study by myself
+#TensorFlow Study
